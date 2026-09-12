@@ -1,0 +1,14 @@
+[2026-08-07 06:25:42,843][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2026-08-07 06:25:46,018][robosuite_logs][WARNING] - No private macro file found!
+[2026-08-07 06:25:46,018][robosuite_logs][WARNING] - It is recommended to use a private macro file
+[2026-08-07 06:25:46,018][robosuite_logs][WARNING] - To setup, run: python /root/autodl-tmp/phantom/submodules/phantom-robosuite/robosuite/scripts/setup_macros.py
+[2026-08-07 06:26:05,449][phantom.processors.hand_processor][ERROR] - Error processing frame 0: Edge hand
+[2026-08-07 06:26:05,497][phantom.processors.hand_processor][ERROR] - Error processing frame 1: Edge hand
+[2026-08-07 06:26:05,808][phantom.processors.hand_processor][ERROR] - Error processing frame 8: Edge hand
+[2026-08-07 06:26:05,899][phantom.processors.hand_processor][ERROR] - Error processing frame 10: Edge hand
+[2026-08-07 06:26:05,940][phantom.processors.hand_processor][ERROR] - Error processing frame 11: Edge hand
+[2026-08-07 06:26:05,982][phantom.processors.hand_processor][ERROR] - Error processing frame 12: Edge hand
+[2026-08-07 06:26:06,024][phantom.processors.hand_processor][ERROR] - Error processing frame 13: Edge hand
+[2026-08-07 06:26:06,065][phantom.processors.hand_processor][ERROR] - Error processing frame 14: Edge hand
+[2026-08-07 06:26:06,110][phantom.processors.hand_processor][ERROR] - Error processing frame 15: Edge hand
+[2026-08-07 06:26:06,156][phantom.processors.hand_processor][ERROR] - Error processing frame 16: Edge hand

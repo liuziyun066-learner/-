@@ -1,0 +1,5 @@
+[2026-08-13 23:54:44,322][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2026-08-13 23:54:48,020][robosuite_logs][WARNING] - No private macro file found!
+[2026-08-13 23:54:48,020][robosuite_logs][WARNING] - It is recommended to use a private macro file
+[2026-08-13 23:54:48,020][robosuite_logs][WARNING] - To setup, run: python /root/autodl-tmp/phantom/submodules/phantom-robosuite/robosuite/scripts/setup_macros.py
+[2026-08-13 23:55:10,935][root][INFO] - Loaded checkpoint sucessfully

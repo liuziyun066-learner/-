@@ -1,0 +1,6 @@
+[2026-08-12 22:22:46,204][OpenGL.acceleratesupport][INFO] - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+[2026-08-12 22:22:51,674][robosuite_logs][WARNING] - No private macro file found!
+[2026-08-12 22:22:51,674][robosuite_logs][WARNING] - It is recommended to use a private macro file
+[2026-08-12 22:22:51,674][robosuite_logs][WARNING] - To setup, run: python /root/autodl-tmp/phantom/submodules/phantom-robosuite/robosuite/scripts/setup_macros.py
+[2026-08-12 22:25:33,161][phantom.detectors.detector_sam2][INFO] - File downloaded successfully and saved to ../submodules/sam2/checkpoints/sam2_hiera_large.pt
+[2026-08-12 22:25:35,557][root][INFO] - Loaded checkpoint sucessfully
